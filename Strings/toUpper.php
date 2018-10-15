@@ -10,7 +10,7 @@
     echo ucwords($nome);
     echo '<br>';
 
-    //deixar a primeira da primeira palavra em MAIUSCULO ----
+    //deixar a primeira da primeira palavra em MAIUSCULO 
     echo ucfirst($nome);
     echo '<br>';
 
