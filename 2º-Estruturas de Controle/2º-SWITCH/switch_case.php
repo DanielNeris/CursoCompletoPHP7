@@ -4,7 +4,7 @@
     //DEFAULT = um valor padrão caso nenhum case seja compátivel com sua necessidade
 
 
-    //setando o fuso ohrario para o brasil
+    //setando o fuso ohrario para o brasil.
     date_default_timezone_set("America/Sao_Paulo");
     $dia = date('w');
 
